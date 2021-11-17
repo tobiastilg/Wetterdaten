@@ -13,7 +13,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import java.util.List;
 
 @Controller
-public class MesswetControllerUI {
+public class MesswerteControllerUI {
 
     @Autowired
     private MesswerteService messwerteService;
